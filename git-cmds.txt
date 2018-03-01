@@ -1,0 +1,9 @@
+- git clone "repo_url"
+- git checkout -b local_branch_name
+
+to pull/push code :-
+- git status
+- git pull origin origin_branch
+- git add file1 file2
+- git commit -m"message" file1 file2
+- git push origin local_branch
